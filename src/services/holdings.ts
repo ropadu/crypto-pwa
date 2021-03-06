@@ -1,4 +1,4 @@
-import { get, set, remove } from "./storage";
+import { get, set } from "./storage";
 
 interface Holding {
   crypto: string;
